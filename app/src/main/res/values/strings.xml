@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">scorekeeper</string>
+    <string name="ScoreIncrease">+ Increment</string>
+    <string name="ScoreDecrement">- Decrement</string>
+    <string name="FirstScore">0</string>
+    <string name="SecondScore">100</string>
+    <string name="FirstScoreIncrease">+ Increase</string>
+    <string name="FirstScoreDecrease">- Decrease</string>
+    <string name="SecondScoreIncrease">+ Increase</string>
+    <string name="SecondScoreDecrease">- Decrease</string>
+</resources>
